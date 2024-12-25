@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi there, I’m [Mohammed Aljawfi]!  
+I’m a passionate **Mobile App Developer** with a knack for building innovative and user-friendly applications.  
 
-<!--
-**maljawfi/maljawfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Skills:**  
+- Flutter | React Native  
+- Firebase | PostgreSQL  
+- UI/UX Design  
 
-Here are some ideas to get you started:
+🌟 **Featured Projects:**  
+- [Project 1](#): Mikrotik Manager Apss.  
+- [Project 2](#): Design img android.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let’s Connect:**  
+[LinkedIn](mraljawfi#) | [Twitter](@mraljawfi) | [My Website](#)  
+
+💡 **Quote I live by:**  
+_"Code is like humor. When you have to explain it, it’s bad."_  
